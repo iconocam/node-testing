@@ -1,0 +1,15 @@
+{
+  "name": "nodetesting",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cle\u001b[De\u001b[De\u001b[D\u001b[Det\u001b[B\u001b[D\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D A sample project demonstrating the functionality of Node and npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
